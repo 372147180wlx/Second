@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
             imagelist.add(iv);
         }
         for (int i = 10; i < 100; i++) {
-            contentlist.add("美女 " + i);
+            contentlist.add("条目 " + i);
         }
     }
 
